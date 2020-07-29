@@ -9,6 +9,7 @@ public class Main {
       Scanner input = new Scanner(System.in);
 int Array[]=null, menu, n=0;
     System.out.println("== Menu Utama ==");
+
     System.out.println("1. Input from");
     System.out.println("2. Tampilkan Data");
     System.out.println("3. Distribusi Frekuensi");
