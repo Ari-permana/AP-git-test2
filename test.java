@@ -9,11 +9,12 @@ public class Main {
       Scanner input = new Scanner(System.in);
 int Array[]=null, menu, n=0;
     System.out.println("== Menu Utama ==");
-    System.out.println("1. Input Data");
+    System.out.println("1. Input from");
     System.out.println("2. Tampilkan Data");
     System.out.println("3. Distribusi Frekuensi");
     System.out.println("4. Statistik");
     System.out.println("5. Keluar\n");
+    System.out.println("6. Exit");
     System.out.println("-------------------------------------------------");
     do{ 
        System.out.print("Masukkan menu yang Anda pilih : ");
