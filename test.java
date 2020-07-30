@@ -32,7 +32,7 @@ int Array[]=null, menu, n=0;
              }
              System.out.println();
              break;
-
+tambah perubahan
           case 2:
              System.out.println("# 2. Tampilkan Data");
              for (int x=1; x<=n; x++){
